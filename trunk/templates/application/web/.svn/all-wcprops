@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/goodyear-one-card/!svn/ver/29/trunk/templates/application/web
+END
+login_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/login_message.html
+END
+headera.mine
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/headera.mine
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/goodyear-one-card/!svn/ver/15/trunk/templates/application/web/footer.html
+END
+player_details.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/player_details.html
+END
+message.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/message.html
+END
+register.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/register.html
+END
+meta.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/meta.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/goodyear-one-card/!svn/ver/10/trunk/templates/application/web/header.html
+END
+home.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/goodyear-one-card/!svn/ver/31/trunk/templates/application/web/home.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/login.html
+END
+headera.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/headera.html
+END
+master.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/web/master.html
+END

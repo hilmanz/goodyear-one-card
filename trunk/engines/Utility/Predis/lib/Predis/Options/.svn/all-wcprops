@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options
+END
+ClientOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/ClientOptions.php
+END
+ClientPrefix.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/ClientPrefix.php
+END
+ClientProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/ClientProfile.php
+END
+ClientCluster.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/ClientCluster.php
+END
+IOption.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/IOption.php
+END
+CustomOption.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/CustomOption.php
+END
+IClientOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/IClientOptions.php
+END
+ClientConnectionFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/ClientConnectionFactory.php
+END
+ClientReplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/ClientReplication.php
+END
+Option.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/lib/Predis/Options/Option.php
+END

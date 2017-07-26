@@ -1,0 +1,644 @@
+<?php /* Smarty version 2.6.13, created on 2015-11-17 17:29:42
+         compiled from application/web/home.html */ ?>
+<div id="paralax" class="autoheights">
+  <div id="layer" class="autoheights layer" data-depth="0.20"></div>
+</div>
+<div id="header" class="autoheight">
+    <div class="container autoheights">
+        <div class="row">
+            <div class="col-md-12 center wow fadeIn" data-wow-duration="0.5s">
+                <a class="logo"><img src="assets/images/logo.png" alt="goodyear"></a>
+            </div><!-- end .col-md-12 -->
+            <div class="col-md-12">
+               <div class="entry-header">
+          <img align="right" src="assets/images/goodyear-onecard.png" alt="goodyear onecard" class="goodyearonecard wow slideInUp" data-wow-duration="1s">
+                  <h1>#one<span class="yellow">good</span>card <?php echo $this->_tpl_vars['countregister']; ?>
+</h1>
+                  <p class="yellow wow slideInUp" data-wow-duration="1s">Nikmati kemudahan dan kepraktisan kartu Goodyear Mandiri One Card. 
+          Sudah tidak zamannya lagi mengantri bayar tol, tinggal tempel kartu dan jalan.Untuk Anda yang belum memiliki kartu spesial ini, 
+          Goodyear akan memberikannya secara gratis untuk Anda!</p>
+
+<p class="yellow wow slideInUp" data-wow-duration="1s">Setiap kartu Goodyear Mandiri One Card berisi saldo senilai Rp50.000,-.
+Tunggu apalagi? Miliki kartu Goodyear Mandiri One Card Anda sekarang juga!</p>
+          <a href="#step" class="scroll scrolldown wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s"></a>
+               </div>
+            </div><!-- end .col-md-12 -->
+        </div><!-- end .row -->
+    </div><!-- end .container -->
+</div><!-- end #header -->
+
+
+<form id="formtrivia">
+    <div id="step">
+        <div id="howto" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center wow slideInUp" data-wow-duration="0.5s">
+                            <span class="spantitle">CARA MENDAPATKAN</span>
+                            <h3 class="htitle">#one<span class="yellow">good</span>card</h3>
+                    </div><!-- end .col-md-12 -->
+                    <div class="col-md-4 first wow slideInUp" data-wow-duration="0.5s">
+                       <div class="entry-box">
+                            <div class="howtoimg">
+                                <img src="assets/images/icon-1.png" alt="goodyear onecard">
+                                <h4 class="yellow"><img src="assets/images/1.png"></h4>
+                            </div>
+                            <div class="box-content">
+                                <p>Isi data diri dan tiga pertanyaan setelahnya</p>
+                            </div>
+                       </div>
+                    </div><!-- end .col-md-4 -->
+                    <div class="col-md-4 second wow slideInUp" data-wow-duration="0.5s">
+                       <div class="entry-box">
+                            <div class="howtoimg">
+                                <img src="assets/images/icon-2.png" alt="goodyear onecard">
+                                <h4 class="yellow"><img src="assets/images/2.png"></h4>
+                            </div>
+                            <div class="box-content">
+                                <p>Selamat! Kamu mendapatkan Goodyear Mandiri One Card <span class="yellow">(Untuk 200 submitter pertama)</span></p>
+                            </div>
+                       </div>
+                    </div><!-- end .col-md-4 -->
+                    <div class="col-md-4 third wow slideInUp" data-wow-duration="0.8s">
+                       <div class="entry-box">
+                            <div class="howtoimg">
+                                <img src="assets/images/icon-3.png" alt="goodyear onecard">
+                                <h4 class="yellow"><img src="assets/images/3.png"></h4>
+                            </div>
+                            <div class="box-content">
+                                <p>Dapatkan kode untuk di-redeem dengan uang sebesar Rp 250.000,- di store Goodyear terdekat <span class="yellow">(Setelah pembelian minimal 2 ban)</span></p>
+                            </div>
+                       </div>
+                    </div><!-- end .col-md-4 -->
+                    <div class="col-md-12 center wow slideInUp" data-wow-duration="0.8s">
+                            <a class="boxbutton start">
+                                <span>Mendapatkan #ONEGOODCARD semudah mengisi data dirimu! Siap?</span>
+                            </a>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #howto -->
+        <div id="personaldata" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center">
+                          <div class="title-box"><h3>DATA DIRI</h3></div>
+                          <div class="theForm">
+                            <div class="rows">
+                             <input id="name" type="text" placeholder="NAMA" name="name" class="name">
+                             <span id="name_error" class="hides">Isi Nama Kamu</span>
+                            </div>
+							<div class="rows">
+                             <input id="email" type="text" placeholder="EMAIL" name="email" class="email">
+                             <span id="email_error" class="hides">Isi Email Kamu</span>
+                            </div>
+                            <div class="rows">
+                             <input id="nohp" type="text" placeholder="NO.HP" name="nohp" class="hp">
+                             <span id="nohp_error" class="hides">Isi Nomor Handphone Kamu</span>
+                             <span id="errmsg" class="error"></span>
+                            </div>
+							<div class="rows">
+                             <input id="alamat" type="text" placeholder="ALAMAT" name="email" class="alamat">
+                             <span id="alamat_error" class="hides">Isi Alamat Kamu</span>
+                            </div>
+                            <div class="rows">
+							
+                             <input id="provinsi" type="text" placeholder="PROVINSI" name="provinsi" class="provinsi">
+							 <!--
+							 <select id="provinsi" class="provinsi">
+							 <?php unset($this->_sections['i']);
+$this->_sections['i']['name'] = 'i';
+$this->_sections['i']['loop'] = is_array($_loop=$this->_tpl_vars['Listprovinsi']) ? count($_loop) : max(0, (int)$_loop); unset($_loop);
+$this->_sections['i']['show'] = true;
+$this->_sections['i']['max'] = $this->_sections['i']['loop'];
+$this->_sections['i']['step'] = 1;
+$this->_sections['i']['start'] = $this->_sections['i']['step'] > 0 ? 0 : $this->_sections['i']['loop']-1;
+if ($this->_sections['i']['show']) {
+    $this->_sections['i']['total'] = $this->_sections['i']['loop'];
+    if ($this->_sections['i']['total'] == 0)
+        $this->_sections['i']['show'] = false;
+} else
+    $this->_sections['i']['total'] = 0;
+if ($this->_sections['i']['show']):
+
+            for ($this->_sections['i']['index'] = $this->_sections['i']['start'], $this->_sections['i']['iteration'] = 1;
+                 $this->_sections['i']['iteration'] <= $this->_sections['i']['total'];
+                 $this->_sections['i']['index'] += $this->_sections['i']['step'], $this->_sections['i']['iteration']++):
+$this->_sections['i']['rownum'] = $this->_sections['i']['iteration'];
+$this->_sections['i']['index_prev'] = $this->_sections['i']['index'] - $this->_sections['i']['step'];
+$this->_sections['i']['index_next'] = $this->_sections['i']['index'] + $this->_sections['i']['step'];
+$this->_sections['i']['first']      = ($this->_sections['i']['iteration'] == 1);
+$this->_sections['i']['last']       = ($this->_sections['i']['iteration'] == $this->_sections['i']['total']);
+?>							
+							  <option  value="<?php echo $this->_tpl_vars['Listprovinsi'][$this->_sections['i']['index']]['province']; ?>
+" ><font color="black"> <?php echo $this->_tpl_vars['Listprovinsi'][$this->_sections['i']['index']]['province']; ?>
+</font> </option>
+							 <?php endfor; endif; ?>							 
+							</select>
+							-->
+                             <span id="provinsi_error" class="hides">Isi Provinsi Kamu</span>
+                            </div>
+							<div class="rows">
+                             <input id="kodepos" type="text" placeholder="KODE POS" name="kodepos" class="kodepos">
+                             <span id="kodepos_error" class="hides">Isi Kode Pos Kamu</span>
+                            </div>
+							
+							
+                             <a class="btnnext simpan" id="btndata"></a>
+                          </div>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #personaldata -->
+        <div id="trivia-1" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center">
+                          <div class="title-box"><h3>KUISIONER</h3></div>
+                          <h4 class="page">#1</h4>
+                          <div class="theForm">
+                            <p>Apakah kamu pengguna ban Goodyear?</p>
+                            <a class="button next choose" rel="1 YA">YA</a>
+                            <a class="button next choose" rel="1 TIDAK">TIDAK</a>
+                          </div>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #trivia-1 -->
+        <div id="trivia-2" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center">
+                          <div class="title-box"><h3>KUISIONER</h3></div>
+                          <h4 class="page">#2</h4>
+                          <div class="theForm">
+                            <p>Apa yang terlintas dibenakmu tentang Goodyear?</p>
+                            <a class="button next choose" rel="2 INOVASI">INOVASI</a>
+                            <a class="button next choose" rel="2 AMAN">AMAN</a>
+                            <a class="button next choose" rel="2 KUALITAS">KUALITAS</a>
+                            <a class="button next choose" rel="2 HARGA">HARGA</a>
+                          </div>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #trivia-2 -->
+        <div id="trivia-3" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center">
+                          <div class="title-box"><h3>KUISIONER</h3></div>
+                          <h4 class="page">#3</h4>
+                          <div class="theForm">
+                            <p>Apakah kamu sudah menggunakan kartu e-toll lainnya?</p>
+                            <a class="button next choose" rel="3 YA">YA</a>
+                            <a class="button next choose" rel="3 TIDAK">TIDAK</a>
+                          </div>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #trivia-3 -->
+        <div id="result" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center">
+                            <h3>#one<span class="yellow">good</span>card</h3>
+                    </div><!-- end .col-md-12 -->
+                    <div class="col-md-12 center">
+                            <div class="resultcontent">
+                              <p class="yellow f18">SELAMAT</br>Anda mendapatkan #ONEGOODCARD</p>
+                          <p>Terima kasih <span id="username" class="yellow"></span>, telah berpartisipasi dalam kuisioner kami. 
+                            Silakan cek email Anda untuk informasi pengiriman <span class="yellow">#ONEGOODCARD</span> Anda.</p>
+                            </div>
+
+                              <p class="yellow f18">Ingin dapatkan potongan harga ban Goodyear senilai Rp200.000?</p>
+                              <p><a href="#vouchertrivia" class="boxbutton"><span>YA</span></a></p>
+                            <p class="share">
+                                <span>Berbagi keamanan dan kemudahan #ONEGOODCARD ke teman Anda!</span>
+								 <a href="javascript:void(0)"  onclick="shareFB()" class="sharebtn"><i class="icon-facebook"></i></a>								
+                                 <a rel='nofollow' href='http://twitter.com/intent/tweet?text=<?php echo $this->_tpl_vars['sharetext']; ?>
+' title='Tweet About It!' target='_blank' class="sharebtn"><i class="icon-twitter"></i></a>                                
+                            </p>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #result -->
+        <div id="vouchertrivia" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center">
+                          <div class="title-box"><h3>JAWAB PERTANYAAN BERIKUT</h3></div>
+                          <div class="theForm">
+                            <div class="rows">
+                              <label>Apa jenis mobil Anda?</label>
+                             <input id="jenismobil" type="text" placeholder="eg. SUV" name="jenismobil" class="jenismobil">
+                             <span id="jenismobil_error" class="hides">Isi jenis mobil Anda</span>
+                            </div>
+                            <div class="rows">
+                              <label>Apa merk mobil Anda?</label>
+                             <input id="merkmobil" type="text" placeholder="eg. BMW" name="merkmobil" class="merkmobil">
+                             <span id="merkmobil_error" class="hides">Isi merk mobil Anda</span>
+                            </div>
+                            <div class="rows">
+                              <label>Berapa ukuran ban mobil Anda?</label>
+                             <input id="ukuranban" type="text" placeholder='eg. 17"' name="ukuranban" class="ukuranban">
+                             <span id="ukuranban_error" class="hides">Isi ukuran ban mobil Anda</span>
+                            </div>
+                            <a class="boxbutton" id="finish">
+                                <span>SELESAI</span>
+                            </a>
+                          </div>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #vouchertrivia -->
+        <div id="result2" class="section item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 center">
+                            <h3>#one<span class="yellow">good</span>card</h3>
+                    </div><!-- end .col-md-12 -->
+                    <div class="col-md-12 center">
+                            <div class="resultcontent">
+                              <p class="yellow f18"><span class="f22">SELAMAT</span></br>Anda mendapatkan voucher Goodyear senilai Rp. 200,000,*</p>
+                              <p>Silakan cek email Anda untuk pengambilan voucher.</p>
+                            </div>
+                            <p><a href="#popup-term" class="term showPopup">Syarat dan ketentuan berlaku</a></p>
+                    </div><!-- end .col-md-12 -->
+                </div><!-- end .row -->
+            </div><!-- end .container -->
+        </div><!-- end #result2 -->
+    </div><!-- end #step -->
+    <div class="popup">
+      <div id="popup-term" class="popupContainer">
+          <div class="popup-content">
+            <h3 class="yellow">Syarat dan ketentuan</h3>
+            <ul>
+              <li>Hanya berlaku untuk pembelian 2 unit ban Goodyear tipe consumer minimum rim 15" (berlaku
+kelipatan) atau 4 unit Goodyear Assurance DuraPlus rim 14".</li>
+              <li>Tidak berlaku untuk tipe Kelly dan Cargo 26.</li>
+              <li>Promo berlaku hingga [TANGGAL]</li>
+              <li>Dua ban yang Anda beli tetap mendapatkan perlindungan Goodyear Worry Free Program.</li>
+            </ul>
+          </div>
+      </div>
+    </div><!-- end .popup -->
+    <input type="hidden" id="question1" name="question1">
+    <input type="hidden" id="question2" name="question2">
+    <input type="hidden" id="question3" name="question3">
+</form>
+
+
+
+<div id="fb-root"></div>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script>
+<?php echo '
+
+ var sharetext = \'Kunjungi www.onegoodcard.com untuk kemudahan bertransaksi dari Goodyear Mandiri One Card #OneGoodCard\';
+ var countregister ="{$countregister}"; 
+
+ $(".simpan").click(function(){		
+ 
+
+ var valid=\'\';
+ if($(".name").val()==\'\')
+	{
+
+		valid=\'ada\';
+	}
+if($(".email").val()==\'\')
+	{
+
+		valid=\'ada\';
+	}
+/*	
+function vlidemail(valid){
+	var valid= valid;
+	var mailnya=$(".email").val();
+	var emailSame=\'\';
+	var ix=0;
+	$.ajax ({ 
+					type	 : \'POST\', 
+					url	 :  basedomain+\'home/emailreg\' , 
+					data:{email:mailnya},
+					dataType:\'json\',
+					success	: function (result) 
+						{
+							
+							++ix;
+						//console.log(emailSame);
+							if(result.status==1)
+							{
+							  console.log(emailSame);
+								if(emailSame==\'\')
+								{
+									emailSame +=result.email;
+									console.log("masukkkk222");
+								}
+								else
+								{
+									emailSame +=\',\'+result.email;
+								}
+								if(emailSame)
+									{
+										//$(\'#email_error\').addClass("error");
+										alert(emailSame);
+										valid=\'ada\';
+									}
+							}
+							console.log(valid);
+							
+						}
+				});
+	}
+*/	
+if($(".hp").val()==\'\')
+	{
+
+		valid=\'ada\';
+	}
+if($(".alamat").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		
+		valid=\'ada\';
+	}
+if($(".propinsi").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		
+		valid=\'ada\';
+	}
+if($(".kodepos").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		
+		valid=\'ada\';
+	}
+if($(".hp").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		
+		valid=\'ada\';
+	}
+
+	$(\'.hp\').keyup(function () {  	
+                if(this.value)
+                {
+                        this.value = this.value.replace(/[^0-9]/g,\'\'); 
+                        
+                }
+        });	
+		
+	$(\'.kodepos\').keyup(function () {  	
+                if(this.value)
+                {
+                        this.value = this.value.replace(/[^0-9]/g,\'\'); 
+                        
+                }
+        });	
+		
+if(valid)
+	{
+		return false;
+	}else{
+								var namenya=$(".name").val();
+								var email=$(".email").val();
+								var hp=$(".hp").val();
+								var alamat=$(".alamat").val();
+								var provinsi=$(".provinsi").val();
+								var kodepos=$(".kodepos").val();
+								//alert(hp);
+								
+									$.ajax ({ 
+										type	 : \'POST\', 
+										url	 :  basedomain+\'home/register\' , 
+										data:{namenya:namenya,email:email,hp:hp,alamat:alamat,provinsi:provinsi,kodepos:kodepos},
+										dataType:\'json\',
+										success	: function (result) 
+											{
+												//alert("sukses");
+												
+											}
+									});		
+								$(\'.fromevent\').trigger(\'submit\');
+				}
+				
+            });
+			
+
+
+$(".choose").click(function(){				
+		var valid=\'\';
+ if($(".email").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		alert("nama");
+		valid=\'ada\';
+	}
+if($(".pertanyaan").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		alert("email");
+		valid=\'ada\';
+	}
+if($(".jawaban").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		alert("hp");
+		valid=\'ada\';
+	}
+					
+					
+	if(valid)
+	{
+		return false;
+	}else{							
+								var str = $(this).attr( "rel" );
+								var res = str.split(" ");
+								var email=$(".email").val();
+								var pertanyaan=res[0];
+								var jawaban=res[1];
+								
+								
+								$.ajax ({ 
+										type	 : \'POST\', 
+										url	 :  basedomain+\'home/kuesioner\' , 
+										data:{email:email,pertanyaan:pertanyaan,jawaban:jawaban},
+										dataType:\'json\',
+										success	: function (result) 
+											{
+												
+												
+											}
+									});			
+						$(\'.fromevent\').trigger(\'submit\');					
+               }
+				
+            });
+			
+$("#finish").click(function(){				
+		var valid=\'\';
+ if($(".jenismobil").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		alert("jenismobil");
+		valid=\'ada\';
+	}
+if($(".merkmobil").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		alert("merkmobil");
+		valid=\'ada\';
+	}
+if($(".ukuranban").val()==\'\')
+	{
+		//$(email_error).html(\'Kolom ini harus diisi\');
+		alert("hp");
+		valid=\'ukuranban\';
+	}
+					
+					
+	if(valid)
+	{
+		return false;
+	}else{		
+								var jenismobil=$(".jenismobil").val();
+								var merkmobil=$(".merkmobil").val();
+								var ukuranban=$(".ukuranban").val();
+								var email=$(".email").val();
+								
+									$.ajax ({ 
+										type	 : \'POST\', 
+										url	 :  basedomain+\'home/registermobil\' , 
+										data:{email:email,jenismobil:jenismobil,merkmobil:merkmobil,ukuranban:ukuranban},
+										dataType:\'json\',
+										success	: function (result) 
+											{
+												//alert("sukses");
+												
+											}
+									});		
+			$(\'.fromevent\').trigger(\'submit\');									
+				}
+				
+            });
+			
+			
+			
+			
+/*			
+$(\'.hp\').keyup(function () {  	
+                if(this.value)
+                {
+                        this.value = this.value.replace(/[^0-9]/g,\'\'); 
+                        
+                }
+        });	
+*/
+	
+function shareFB(fb_name,fb_link,fb_img,fb_user,fb_post){
+
+			FB.init();
+			FB.ui({
+				method: \'feed\',
+				name: fb_name,
+				link: \'https://www.goodyear.com\',
+				caption: \'ooo\',
+				//link: fb_link,
+				//picture: fb_img,
+				//caption: fb_user,
+				description: sharetext
+				
+				
+			});
+				 
+		}
+/*
+		function myload()
+		{
+		$.ajax ({ 
+										type	 : \'POST\', 
+										url	 :  basedomain+\'home/emailreg\' , 
+										//data:{},
+										dataType:\'json\',
+										success	: function (response) 
+											{
+												//alert("sukses");
+												if(response){
+										  if(response.status==true){
+											var str="";
+											$.each(response.data,function(k,v){
+											alert(v.id);
+													
+													});
+																																						
+											}
+										}
+												
+												
+												//
+											}
+									});		
+	}
+
+$.post(basedomain+"story/pagingstory",{start:start,ajax:1,search:search},function(response){
+	
+		if(response){
+			  if(response.status==true){
+				var str="";
+				$.each(response.data,function(k,v){
+					
+						str+=\'<tr>\';
+						str+=\'<td>\'+v.no+\'</td>\';
+						str+=\'<td>\';
+						if(v.id_category==1)
+						{
+						str+=\'Style\';
+						}else if(v.id_category==2){
+						str+=\'Event\';
+						}else if(v.id_category==3){
+						str+=\'Skin\';
+						}else if(v.id_category==4){
+						str+=\'D.I.Y\';
+						}else if(v.id_category==5){
+						str+=\'Relations\';
+						}
+						str+=\'</td>\';
+						str+=\'<td>\'+v.title+\'</td>\';
+						str+=\'<td>\'+v.content.substring(0, 150)+\'..</td>\';
+						str+=\'<td>\'+v.date+\'</td>\';
+						str+=\'<td>\'+v.meta_title+\'</td>\';
+						str+=\'<td>\'+v.meta_description+\'</td>\';
+						str+=\'<td>\'+v.keyword+\'</td>\';
+						str+=\'<td>\'+v.like+\'</td>\';
+						str+=\'<td>\'+v.view_count+\'</td>\';
+						str+=\'<td>\'+v.share_twitter+\'</td>\';
+						str+=\'<td>\'+v.share_fb+\'</td>\';
+						str+=\'<td>\';
+						if (v.n_status==1)
+						{
+						str+=\'<center><input type="checkbox" class="checkinactive" value="\'+v.id+\'" checked>Tampil</center>\';
+						}else{
+						str+=\'<center><input type="checkbox" class="checkactive" value="\'+v.id+\'"></center>\';
+						}
+						str+=\'</td>\';
+						str+=\'<td><a href="\'+basedomain+\'story/edit?id=\'+v.id+\'" class="button"  > Edit</a><a href="javascript:void(0)" class="button" onClick="confirmation(\\\'\'+basedomain+\'story/hapus?param=\'+v.id+\'\\\',\\\'Confirm to Delete?\\\')" > Delete</a>\';
+						str+=\'</td>\';
+						str+=\'</tr>\';
+						
+						});
+						
+						$(\'.pagilist\').html(str);
+						likeunlike();	
+					
+				}
+			}
+		},"JSON");
+
+*/		
+		'; ?>
+
+</script>

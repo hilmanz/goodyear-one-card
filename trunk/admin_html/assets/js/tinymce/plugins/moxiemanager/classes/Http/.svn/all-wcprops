@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Http
+END
+HttpClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Http/Response.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Http/Session.php
+END
+Context.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Http/Context.php
+END
+IHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Http/IHandler.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Http/Request.php
+END

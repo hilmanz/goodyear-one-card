@@ -1,0 +1,22 @@
+## Exclude Public Assets
+
+#- public_html/public_assets/
+#- public_html/_MyAdmin/
+- public_html/.htaccess
+- public_html/assets/.htaccess
+- public_html/.htpasswd
+#- public_html/assets/sources/
+- public_html/public_assets/.htaccess
+- public_html/android_app.php
+- config/config.inc.php
+- admin_html/.htaccess
+#- com/application/modules/reportbugs.php
+#- com/application/helper/reportbugsHelper.php
+#- templates/application/web/apps/report.html
+- templates/application/web/header.html
+#- com/application/helper/deviceMopHelper.php
+#- db/
+#- tools/
+- sanbox/
+- logs/
+- tmp/

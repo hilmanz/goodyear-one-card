@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/goodyear-one-card/!svn/ver/19/trunk/config
+END
+config.inc.live.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/goodyear-one-card/!svn/ver/7/trunk/config/config.inc.live.php
+END
+config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/goodyear-one-card/!svn/ver/7/trunk/config/config.inc.php
+END
+config.sample.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/goodyear-one-card/!svn/ver/7/trunk/config/config.sample.inc.php
+END
+email.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/goodyear-one-card/!svn/ver/7/trunk/config/email.inc.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/goodyear-one-card/!svn/ver/7/trunk/config/routes.php
+END
+config.dashboard.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/goodyear-one-card/!svn/ver/7/trunk/config/config.dashboard.inc.php
+END
+config.inc.local.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/goodyear-one-card/!svn/ver/7/trunk/config/config.inc.local.php
+END
+locale.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/goodyear-one-card/!svn/ver/19/trunk/config/locale.inc.php
+END

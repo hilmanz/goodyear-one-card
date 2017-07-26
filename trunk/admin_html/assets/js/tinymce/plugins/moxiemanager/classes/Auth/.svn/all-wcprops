@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Auth
+END
+AuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Auth/AuthManager.php
+END
+IStandaloneAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Auth/IStandaloneAuthenticator.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Auth/User.php
+END
+Oauth2.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Auth/Oauth2.php
+END
+IAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Auth/IAuthenticator.php
+END

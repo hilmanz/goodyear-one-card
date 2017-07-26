@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Storage
+END
+MySqlStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Storage/MySqlStorage.php
+END
+IStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Storage/IStorage.php
+END
+JsonStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Storage/JsonStorage.php
+END
+StorageManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Storage/StorageManager.php
+END
+SqliteStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/goodyear-one-card/!svn/ver/7/trunk/admin_html/assets/js/tinymce/plugins/moxiemanager/classes/Storage/SqliteStorage.php
+END

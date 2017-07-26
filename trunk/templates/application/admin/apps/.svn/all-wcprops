@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/goodyear-one-card/!svn/ver/21/trunk/templates/application/admin/apps
+END
+sdk-pages.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/admin/apps/sdk-pages.html
+END
+project-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/admin/apps/project-list.html
+END
+listtrivia.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/goodyear-one-card/!svn/ver/19/trunk/templates/application/admin/apps/listtrivia.html
+END
+template-generator.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/admin/apps/template-generator.html
+END
+listkuesioner.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/goodyear-one-card/!svn/ver/20/trunk/templates/application/admin/apps/listkuesioner.html
+END
+reservation.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/admin/apps/reservation.html
+END
+soursally-report.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/admin/apps/soursally-report.html
+END
+listregistrasi.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/goodyear-one-card/!svn/ver/20/trunk/templates/application/admin/apps/listregistrasi.html
+END
+sdk-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/admin/apps/sdk-list.html
+END
+sdk-add.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/goodyear-one-card/!svn/ver/7/trunk/templates/application/admin/apps/sdk-add.html
+END

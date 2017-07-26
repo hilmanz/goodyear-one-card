@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/goodyear-one-card/!svn/ver/7/trunk/engines/Admin
+END
+PluginManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/goodyear-one-card/!svn/ver/7/trunk/engines/Admin/PluginManager.php
+END
+UserManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/goodyear-one-card/!svn/ver/7/trunk/engines/Admin/UserManager.php
+END
+DashboardManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/goodyear-one-card/!svn/ver/7/trunk/engines/Admin/DashboardManager.php
+END
+Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/goodyear-one-card/!svn/ver/7/trunk/engines/Admin/Admin.php
+END
+activityTracker.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/goodyear-one-card/!svn/ver/7/trunk/engines/Admin/activityTracker.php
+END

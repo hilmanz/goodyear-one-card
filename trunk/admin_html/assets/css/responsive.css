@@ -1,0 +1,54 @@
+/*
+Theme Name: VCARD
+Author: Acit Jazz
+Version: 1.0
+*/
+@media (max-width: 1360px;) {
+	.container{ width:90%; margin:0 auto;}
+} 
+@media only screen and (max-width: 1024px) {
+	#header{
+		background-size: cover;
+	}
+}
+@media only screen and (max-width: 800px) {
+	.goodyearonecard{
+		margin: 0;
+		right: 0;
+		top: 0;
+	}
+	.entry-header{
+		text-align: center;
+	}
+	.second .howtoimg{
+		border: none;
+	}
+	.second{
+		border-top: solid 1px #556386;
+		border-bottom: solid 1px #556386;
+	}
+	.autoheights,.autoheight{
+		height: auto !important;
+	}
+	#header .container{
+		padding-bottom: 150px;
+	}
+	.section{
+		padding: 30px 0 50px 0;
+	}
+}
+@media (max-width: 600px) {
+	.boxbutton span{
+		line-height:24px;
+		padding: 10px 20px;
+	}
+	#footer{
+		text-align: center;
+	}
+	.worryfree,.copyright,.socmed{
+		float: none;
+		line-height: 24px;	
+	}
+}
+@media (max-width: 375px){
+}

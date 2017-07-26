@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+{$meta}
+<body>
+  <div id="body">
+    <div id="page">
+      {if $pages != 'login' && $pages != 'logout'}
+      <div id="sidebar">
+        <div id="navbar">
+            <ul>
+				<li><a class="{if $pages == 'home'}active{/if}" href="{$basedomain}home" ><span class="icon-home">&nbsp;</span><span>Home</span></a></li>				
+				<li><a class="{if $pages == 'register'}active{/if}" href="{$basedomain}register" ><span class="icon-users">&nbsp;</span><span>List Registrasi </span></a></li>				
+                <li><a class="{if $pages == 'kuesioner'}active{/if}" href="{$basedomain}kuesioner" ><span class="icon-list">&nbsp;</span><span>Kuesioner</span></a></li>		
+				<li><a class="{if $pages == 'trivia'}active{/if}" href="{$basedomain}trivia" ><span class="icon-list">&nbsp;</span><span>Trivia</span></a></li>		                
+                <li><a class="{if $pages == 'logout'}active{/if}" href="{$basedomain}logout.php" ><span class="icon-lock">&nbsp;</span><span>Logout </span></a></li>		
+              </ul>
+          </div>
+      </div><!-- end #sidebar -->
+		  {$header}
+      {/if}
+        <div id="thecontent">
+             {$mainContent}
+        </div><!-- /#thecontent -->
+		  {$footer}
+		  
+
+    </div><!-- end #page -->
+  </div><!-- end #body -->    
+</body>
+</html>

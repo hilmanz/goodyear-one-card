@@ -1,0 +1,222 @@
+2015-05-01 01:39:43 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:39:43 cannot login, password or username not exists 
+2015-05-01 01:39:43 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:39:43 cannot login, password or username not exists 
+2015-05-01 01:43:11 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:43:11 cannot login, password or username not exists 
+2015-05-01 01:43:11 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:43:11 cannot login, password or username not exists 
+2015-05-01 01:50:54 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:50:54 cannot login, password or username not exists 
+2015-05-01 01:50:54 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:50:54 cannot login, password or username not exists 
+2015-05-01 01:53:00 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:53:00 cannot login, password or username not exists 
+2015-05-01 01:53:00 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:53:00 cannot login, password or username not exists 
+2015-05-01 01:58:06 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:58:06 cannot login, password or username not exists 
+2015-05-01 01:58:06 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 01:58:06 cannot login, password or username not exists 
+2015-05-01 02:56:41 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 02:56:41 cannot login, password or username not exists 
+2015-05-01 02:56:41 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 02:56:41 cannot login, password or username not exists 
+2015-05-01 03:01:08 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 03:01:08 cannot login, password or username not exists 
+2015-05-01 03:01:08 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 03:01:08 cannot login, password or username not exists 
+2015-05-01 03:11:16 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 03:11:16 cannot login, password or username not exists 
+2015-05-01 03:11:16 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 03:11:16 cannot login, password or username not exists 
+2015-05-01 03:16:03 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 03:16:03 cannot login, password or username not exists 
+2015-05-01 03:16:03 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 03:16:03 cannot login, password or username not exists 
+2015-05-01 04:16:34 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:34 cannot login, password or username not exists 
+2015-05-01 04:16:34 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:34 cannot login, password or username not exists 
+2015-05-01 04:16:35 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:35 cannot login, password or username not exists 
+2015-05-01 04:16:35 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:35 cannot login, password or username not exists 
+2015-05-01 04:16:36 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:36 cannot login, password or username not exists 
+2015-05-01 04:16:36 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:36 cannot login, password or username not exists 
+2015-05-01 04:16:39 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:39 cannot login, password or username not exists 
+2015-05-01 04:16:39 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 04:16:39 cannot login, password or username not exists 
+2015-05-01 10:19:54 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:19:54 cannot login, password or username not exists 
+2015-05-01 10:19:54 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:19:54 cannot login, password or username not exists 
+2015-05-01 10:19:57 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:19:57 cannot login, password or username not exists 
+2015-05-01 10:19:57 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:19:57 cannot login, password or username not exists 
+2015-05-01 10:20:04 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:20:04 cannot login, password or username not exists 
+2015-05-01 10:20:04 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:20:04 cannot login, password or username not exists 
+2015-05-01 10:20:08 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:20:08 cannot login, password or username not exists 
+2015-05-01 10:20:08 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:20:08 cannot login, password or username not exists 
+2015-05-01 10:25:12 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:25:12 cannot login, password or username not exists 
+2015-05-01 10:25:12 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:25:12 cannot login, password or username not exists 
+2015-05-01 10:25:32 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:25:32 cannot login, password or username not exists 
+2015-05-01 10:25:32 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:25:32 cannot login, password or username not exists 
+2015-05-01 10:25:40 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:25:40 cannot login, password or username not exists 
+2015-05-01 10:25:40 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:25:40 cannot login, password or username not exists 
+2015-05-01 10:26:02 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:02 cannot login, password or username not exists 
+2015-05-01 10:26:02 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:02 cannot login, password or username not exists 
+2015-05-01 10:26:09 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:09 cannot login, password or username not exists 
+2015-05-01 10:26:09 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:09 cannot login, password or username not exists 
+2015-05-01 10:26:22 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:22 cannot login, password or username not exists 
+2015-05-01 10:26:22 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:22 cannot login, password or username not exists 
+2015-05-01 10:26:26 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:26 cannot login, password or username not exists 
+2015-05-01 10:26:26 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:26 cannot login, password or username not exists 
+2015-05-01 10:26:36 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:36 cannot login, password or username not exists 
+2015-05-01 10:26:36 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:36 cannot login, password or username not exists 
+2015-05-01 10:26:52 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:52 cannot login, password or username not exists 
+2015-05-01 10:26:52 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:52 cannot login, password or username not exists 
+2015-05-01 10:26:55 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:55 cannot login, password or username not exists 
+2015-05-01 10:26:55 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:55 cannot login, password or username not exists 
+2015-05-01 10:26:56 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:56 cannot login, password or username not exists 
+2015-05-01 10:26:56 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:56 cannot login, password or username not exists 
+2015-05-01 10:26:56 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:56 cannot login, password or username not exists 
+2015-05-01 10:26:56 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:56 cannot login, password or username not exists 
+2015-05-01 10:26:57 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:57 cannot login, password or username not exists 
+2015-05-01 10:26:57 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:57 cannot login, password or username not exists 
+2015-05-01 10:26:57 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:57 cannot login, password or username not exists 
+2015-05-01 10:26:57 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:26:57 cannot login, password or username not exists 
+2015-05-01 10:27:01 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:01 cannot login, password or username not exists 
+2015-05-01 10:27:01 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:01 cannot login, password or username not exists 
+2015-05-01 10:27:06 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:06 cannot login, password or username not exists 
+2015-05-01 10:27:06 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:06 cannot login, password or username not exists 
+2015-05-01 10:27:09 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:09 cannot login, password or username not exists 
+2015-05-01 10:27:09 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:09 cannot login, password or username not exists 
+2015-05-01 10:27:10 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:10 cannot login, password or username not exists 
+2015-05-01 10:27:10 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:10 cannot login, password or username not exists 
+2015-05-01 10:27:10 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:10 cannot login, password or username not exists 
+2015-05-01 10:27:10 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:10 cannot login, password or username not exists 
+2015-05-01 10:27:11 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:11 cannot login, password or username not exists 
+2015-05-01 10:27:11 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:11 cannot login, password or username not exists 
+2015-05-01 10:27:15 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:15 cannot login, password or username not exists 
+2015-05-01 10:27:15 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:15 cannot login, password or username not exists 
+2015-05-01 10:27:27 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:27 cannot login, password or username not exists 
+2015-05-01 10:27:27 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:27:27 cannot login, password or username not exists 
+2015-05-01 10:28:39 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:28:39 cannot login, password or username not exists 
+2015-05-01 10:28:39 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:28:39 cannot login, password or username not exists 
+2015-05-01 10:28:39 file type : image/jpeg
+2015-05-01 10:28:39 /home/kana/kanadigital/preview/gogirl/public_html/public_assets/avatar/62b7e6a6d875e6f342f3b7777c9228bd.jpg
+2015-05-01 10:28:51 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:28:51 cannot login, password or username not exists 
+2015-05-01 10:28:51 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:28:51 cannot login, password or username not exists 
+2015-05-01 10:29:00 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:29:00 cannot login, password or username not exists 
+2015-05-01 10:29:00 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:29:00 cannot login, password or username not exists 
+2015-05-01 10:29:15 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:29:15 cannot login, password or username not exists 
+2015-05-01 10:29:15 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:29:15 cannot login, password or username not exists 
+2015-05-01 10:30:12 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:30:12 cannot login, password or username not exists 
+2015-05-01 10:30:12 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:30:12 cannot login, password or username not exists 
+2015-05-01 10:30:24 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:30:24 cannot login, password or username not exists 
+2015-05-01 10:30:24 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:30:24 cannot login, password or username not exists 
+2015-05-01 10:30:28 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:30:28 cannot login, password or username not exists 
+2015-05-01 10:30:28 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 10:30:28 cannot login, password or username not exists 
+2015-05-01 11:22:15 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 11:22:15 cannot login, password or username not exists 
+2015-05-01 11:22:15 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 11:22:15 cannot login, password or username not exists 
+2015-05-01 11:33:20 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 11:33:20 cannot login, password or username not exists 
+2015-05-01 11:33:20 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 11:33:20 cannot login, password or username not exists 
+2015-05-01 13:24:25 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 13:24:25 cannot login, password or username not exists 
+2015-05-01 13:24:25 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 13:24:25 cannot login, password or username not exists 
+2015-05-01 18:16:55 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 18:16:55 cannot login, password or username not exists 
+2015-05-01 18:16:55 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 18:16:55 cannot login, password or username not exists 
+2015-05-01 20:06:16 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:16 cannot login, password or username not exists 
+2015-05-01 20:06:16 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:16 cannot login, password or username not exists 
+2015-05-01 20:06:16 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:16 cannot login, password or username not exists 
+2015-05-01 20:06:16 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:16 cannot login, password or username not exists 
+2015-05-01 20:06:18 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:18 cannot login, password or username not exists 
+2015-05-01 20:06:18 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:18 cannot login, password or username not exists 
+2015-05-01 20:06:19 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:19 cannot login, password or username not exists 
+2015-05-01 20:06:19 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 20:06:19 cannot login, password or username not exists 
+2015-05-01 21:46:56 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 21:46:56 cannot login, password or username not exists 
+2015-05-01 21:46:56 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-05-01 21:46:56 cannot login, password or username not exists 

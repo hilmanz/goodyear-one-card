@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/tests/Predis/PubSub
+END
+DispatcherLoopTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/tests/Predis/PubSub/DispatcherLoopTest.php
+END
+PubSubContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/goodyear-one-card/!svn/ver/7/trunk/engines/Utility/Predis/tests/Predis/PubSub/PubSubContextTest.php
+END

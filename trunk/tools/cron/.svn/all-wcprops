@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/goodyear-one-card/!svn/ver/7/trunk/tools/cron
+END
+curl_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/goodyear-one-card/!svn/ver/7/trunk/tools/cron/curl_class.php
+END
+user_unblock.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/goodyear-one-card/!svn/ver/7/trunk/tools/cron/user_unblock.sh
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/goodyear-one-card/!svn/ver/7/trunk/tools/cron/db.php
+END
+sync2prod.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/goodyear-one-card/!svn/ver/7/trunk/tools/cron/sync2prod.sh
+END
+getCity.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/goodyear-one-card/!svn/ver/7/trunk/tools/cron/getCity.php
+END
+mopsync.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/goodyear-one-card/!svn/ver/7/trunk/tools/cron/mopsync.php
+END

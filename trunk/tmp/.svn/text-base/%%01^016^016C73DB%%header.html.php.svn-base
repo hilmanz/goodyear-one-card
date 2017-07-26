@@ -1,0 +1,8 @@
+<?php /* Smarty version 2.6.13, created on 2015-11-17 17:29:43
+         compiled from application/web//header.html */ ?>
+<div id="header">
+	<div id="top">
+       <a id="logo" href="index.php"><img src="<?php echo $this->_tpl_vars['basedomain']; ?>
+assets/images/logo.png" /></a>	
+    </div>
+</div><!-- END .main-menu-wrapper -->

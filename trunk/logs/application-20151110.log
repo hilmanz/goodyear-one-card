@@ -1,0 +1,78 @@
+2015-11-10 16:48:46 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:46 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:47 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:47 cannot login, password or username not exists 
+2015-11-10 16:48:48 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:48 cannot login, password or username not exists 
+2015-11-10 16:48:48 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:48 cannot login, password or username not exists 
+2015-11-10 16:48:48 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:48 cannot login, password or username not exists 
+2015-11-10 16:48:48 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:48 cannot login, password or username not exists 
+2015-11-10 16:48:48 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:48 cannot login, password or username not exists 
+2015-11-10 16:48:49 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:49 cannot login, password or username not exists 
+2015-11-10 16:48:58 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:58 cannot login, password or username not exists 
+2015-11-10 16:48:58 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:58 cannot login, password or username not exists 
+2015-11-10 16:48:59 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:59 cannot login, password or username not exists 
+2015-11-10 16:48:59 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:59 cannot login, password or username not exists 
+2015-11-10 16:48:59 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:59 cannot login, password or username not exists 
+2015-11-10 16:48:59 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:59 cannot login, password or username not exists 
+2015-11-10 16:48:59 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:59 cannot login, password or username not exists 
+2015-11-10 16:48:59 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:59 cannot login, password or username not exists 
+2015-11-10 16:48:59 SELECT * FROM social_member WHERE username='' LIMIT 1
+2015-11-10 16:48:59 cannot login, password or username not exists 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:53:16 Not able to login BEAT 
+2015-11-10 16:54:38 Not able to login BEAT 
+2015-11-10 16:54:38 Not able to login BEAT 
+2015-11-10 16:55:23 Not able to login BEAT 
+2015-11-10 16:55:23 Not able to login BEAT 
+2015-11-10 16:55:23 Not able to login BEAT 
+2015-11-10 16:58:02 can login
+2015-11-10 16:58:02 Able to login BEAT
+2015-11-10 16:58:02 can login
+2015-11-10 16:58:02 Able to login BEAT
+2015-11-10 17:08:10 can login
+2015-11-10 17:08:10 Able to login BEAT
+2015-11-10 22:01:40 Not able to login BEAT 
+2015-11-10 22:01:40 Not able to login BEAT 
+2015-11-10 22:02:15 can login
+2015-11-10 22:02:15 Able to login BEAT
+2015-11-10 22:02:15 can login
+2015-11-10 22:02:15 Able to login BEAT
